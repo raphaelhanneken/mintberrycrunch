@@ -1,2 +1,2 @@
-# mintberrycrunch
-A light colour scheme
+# Mintberry Crunch
+A light colour scheme.
